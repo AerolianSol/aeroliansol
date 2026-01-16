@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hi there! 👋
+
+I'm Denny, a recent-graduate software engineer based in Texas.
+
+I love designing and developing games. Ask me about game design!
+
+My main tech stack involves Python, React, and Javascript.
+My favorite tools to use are the Godot Engine, Unity Engine, Procreate on the Ipad, and Blender.
+
+I am currently learning and looking for help with full stack application development.
+
+I have built and collaborated with 10+ public repositories but privately, I've built more than 20+.
+
+Fun Facts:
+- I have a dog 🐶
+- I prefer boba tea over coffee 🧋
+- Hobbies: drawing, writing, and game development
 
 <!--
 **AerolianSol/aeroliansol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
