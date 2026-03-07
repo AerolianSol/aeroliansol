@@ -14,7 +14,7 @@ I have built and collaborated with 10+ public repositories but privately, I've b
 Fun Facts:
 - I have a dog 🐶
 - I prefer boba tea over coffee 🧋
-- Hobbies: drawing, writing, and game development
+- Hobbies: drawing, writing, and game development 📝
 
 <!--
 **AerolianSol/aeroliansol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
